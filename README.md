@@ -14,7 +14,8 @@
 
 ## Projects
 #### I Love development and working on projects, most of them get scrapped but here are a few that I have published
-- URL Shortening Application **[Teenie](https://teenie.ml)**
-  This app has a simple GUI and is still in development, but it does its job.
+- ### URL Shortening Application **[Teenie](https://teenie.ml)**
+  #### This app has a simple GUI and is still in development, but it does its job.
   ![Teenie GUI Example](https://raw.githubusercontent.com/KronsyC/KronsyC/main/Teenie.png)
-  The GUI is written in React, with a fastify backend. I use MongoDB as a data store.
+  ##### The GUI is written in React, with a fastify backend. I use MongoDB as a data store.
+  ##### I love Cloudflare for caching content, so the domain is proxied through Cloudflare to increase loading speeds
