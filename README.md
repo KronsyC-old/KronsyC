@@ -1,4 +1,4 @@
-## Hey There! 👋 I'm KronsyC
+## Hey There! 👋 I'm Samir, aka. KronsyC
 
 ### Student, Programmer
 
