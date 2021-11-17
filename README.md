@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hey There! 👋 I'm KronsyC
 
-<!--
-**KronsyC/KronsyC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Student, Programmer
 
-Here are some ideas to get you started:
+#### I love programming and hope to go to college to study software engineering after high school. I primarily work as a full-stack developer, but really love distributed systems and have a bias towards the backend. I enjoy learning about distributed design methodologies such as microservices and one day, hope to make these technologies better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Can Do
+- 🖥️ NodeJS ( Express, Fastify )
+- 🐍 Python ( Flask, Fastapi )
+- 🌐 Frontend ( React, Gatsby, Next )
+- DevOps ( Docker, Kubernetes )
+- C#
+- Golang
+
+## Projects
+#### I Love development and working on projects, most of them get scrapped but here are a few that I have published
+- URL Shortening Application **[Teenie](https://teenie.ml)**
+  This app has a simple GUI and is still in development, but it does its job.
+  
