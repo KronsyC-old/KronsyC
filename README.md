@@ -11,6 +11,7 @@
 - DevOps ( Docker, Kubernetes )
 - C#
 - Golang
+- Databases ( MongoDB, SQL(Postgres) )
 
 ## Projects
 #### I Love development and working on projects, most of them get scrapped but here are a few that I have published
