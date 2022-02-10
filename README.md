@@ -1,5 +1,5 @@
-## Hey There! 👋 I'm Kronsy
+## Hey There! I'm Samir
 
-### Student, Programmer
+#### Student, Programmer
 
-#### I love programming, especially when it comes to distributed, highly available systems. The backend is my speciality, but I can do a little bit of frontend too.
+#### I like Computers, but sometimes I don't.
