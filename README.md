@@ -1,5 +1,3 @@
-## Hey There! I'm Samir
+## Hey There! I'm Casey
 
-#### Student, Programmer
-
-#### I like Computers, but sometimes I don't.
+### I do stuff with the things so that the other thing becomes done, in order for me to be able to the thingymajig
